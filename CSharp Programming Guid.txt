@@ -1,0 +1,6 @@
+The four pillars of OOPs
+
+Encapsulation.
+Inheritance.
+Polymorphism.
+Abstraction.

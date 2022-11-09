@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TreeViewWinFormsApp/1.0.0": {
+        "runtime": {
+          "TreeViewWinFormsApp.dll": {}
+        }
+      },
+      "Tree View/1.0.0": {
+        "runtime": {
+          "Tree View.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TreeViewWinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tree View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

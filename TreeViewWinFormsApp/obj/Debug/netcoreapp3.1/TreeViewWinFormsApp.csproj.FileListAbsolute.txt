@@ -1,0 +1,46 @@
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.exe
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.deps.json
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.runtimeconfig.json
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.runtimeconfig.dev.json
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.dll
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.pdb
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.csproj.AssemblyReference.cache
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.Form1.resources
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.csproj.GenerateResource.cache
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.AssemblyInfoInputs.cache
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.AssemblyInfo.cs
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.csproj.CoreCompileInputs.cache
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.dll
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.pdb
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.genruntimeconfig.cache
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.deps.json
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.runtimeconfig.json
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.runtimeconfig.dev.json
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.exe
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.dll
+C:\HD\Development\DotNet\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.pdb
+C:\HD\Development\DotNet\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.csproj.CopyComplete
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.deps.json
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.runtimeconfig.json
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.runtimeconfig.dev.json
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.exe
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.exe
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.deps.json
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.runtimeconfig.json
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.runtimeconfig.dev.json
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.dll
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\TreeViewWinFormsApp.pdb
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.dll
+C:\Development\.Net\.Net\TreeViewWinFormsApp\bin\Debug\netcoreapp3.1\Tree View.pdb
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.csproj.AssemblyReference.cache
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.Form1.resources
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.csproj.GenerateResource.cache
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.AssemblyInfoInputs.cache
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.AssemblyInfo.cs
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.csproj.CopyComplete
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.dll
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.pdb
+C:\Development\.Net\.Net\TreeViewWinFormsApp\obj\Debug\netcoreapp3.1\TreeViewWinFormsApp.genruntimeconfig.cache
