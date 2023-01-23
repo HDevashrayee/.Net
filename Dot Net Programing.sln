@@ -58,10 +58,13 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerService", "WorkerService\WorkerService.csproj", "{ED9C1B4A-95CF-4881-860E-5F7A113FD57D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{CBC58E6A-153E-4067-BC4C-CD1B5ABACCD6}"
+	ProjectSection(SolutionItems) = preProject
+		Introduction.txt = Introduction.txt
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Types", "Types\Types.csproj", "{00CA3B98-988B-41EF-9783-330EC858D6D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{75783E68-76C3-4706-BA0C-FD57BD487046}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility", "Utility\Utility.csproj", "{75783E68-76C3-4706-BA0C-FD57BD487046}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
