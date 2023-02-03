@@ -15,6 +15,13 @@ namespace Types
 
             public Pair(TFirst first, TSecond second) =>
                 (First, Second) = (first, second);
+
+            public void Method()
+            {
+                var pair = new Pair<int, string>(1, "Second");
+                int i = pair.First;
+                string s = pair.Second;
+            }
         }
     }
 }
