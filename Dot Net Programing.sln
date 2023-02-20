@@ -18,13 +18,13 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{9E5FF8BD-F24E-4E29-B156-32FEC6A4FA0E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2EDBDE6-5EDC-43A1-9426-4B2984893603}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\Career\Object-Oriented programming.docx = ..\..\Career\Object-Oriented programming.docx
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{AB823BCE-93D8-494E-9C64-A9BF75E3C501}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "The Four Pillars of OOP", "The Four Pillars of OOP", "{75450940-47E9-43C0-906A-7C1E48240D7E}"
+	ProjectSection(SolutionItems) = preProject
+		External lib\Object-Oriented programming.docx = External lib\Object-Oriented programming.docx
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{9FA55E7E-8AB2-4B1F-9EBB-743B55DEC9DD}"
 EndProject
@@ -46,7 +46,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeViewWinFormsApp", "Tree
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{C712DE74-2E31-4848-9E15-E2F3B69244D8}"
 	ProjectSection(SolutionItems) = preProject
-		..\External Library\Binary Tree Vs Binary Search Tree.docx = ..\External Library\Binary Tree Vs Binary Search Tree.docx
+		External lib\Binary Tree Vs Binary Search Tree.docx = External lib\Binary Tree Vs Binary Search Tree.docx
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary Search Tree", "Binary Search Tree\Binary Search Tree.csproj", "{2815BD1E-E1DC-4A41-A00C-36466A4C76BA}"
