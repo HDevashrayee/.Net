@@ -17,8 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attribute", "Attribute\Attr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{9E5FF8BD-F24E-4E29-B156-32FEC6A4FA0E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2EDBDE6-5EDC-43A1-9426-4B2984893603}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{AB823BCE-93D8-494E-9C64-A9BF75E3C501}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "The Four Pillars of OOP", "The Four Pillars of OOP", "{75450940-47E9-43C0-906A-7C1E48240D7E}"
@@ -59,12 +57,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerService", "WorkerServ
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{CBC58E6A-153E-4067-BC4C-CD1B5ABACCD6}"
 	ProjectSection(SolutionItems) = preProject
+		External lib\.Net versions.docx = External lib\.Net versions.docx
 		Introduction.txt = Introduction.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Types", "Types\Types.csproj", "{00CA3B98-988B-41EF-9783-330EC858D6D3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility", "Utility\Utility.csproj", "{75783E68-76C3-4706-BA0C-FD57BD487046}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WCF", "WCF", "{6B122D80-906E-4043-A610-CEB7F2A36820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceApp", "WcfServiceApp\WcfServiceApp.csproj", "{FB8F9E71-C1FE-4581-92A2-6EA46BA139C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -164,6 +167,10 @@ Global
 		{75783E68-76C3-4706-BA0C-FD57BD487046}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75783E68-76C3-4706-BA0C-FD57BD487046}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75783E68-76C3-4706-BA0C-FD57BD487046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8F9E71-C1FE-4581-92A2-6EA46BA139C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8F9E71-C1FE-4581-92A2-6EA46BA139C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8F9E71-C1FE-4581-92A2-6EA46BA139C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8F9E71-C1FE-4581-92A2-6EA46BA139C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -176,6 +183,7 @@ Global
 		{321DDF8B-5D09-48DC-97D2-146EABF3DD1F} = {C712DE74-2E31-4848-9E15-E2F3B69244D8}
 		{A54D3420-D49E-4E6D-809D-EE0F1DF7D7E9} = {C712DE74-2E31-4848-9E15-E2F3B69244D8}
 		{2815BD1E-E1DC-4A41-A00C-36466A4C76BA} = {C712DE74-2E31-4848-9E15-E2F3B69244D8}
+		{FB8F9E71-C1FE-4581-92A2-6EA46BA139C2} = {6B122D80-906E-4043-A610-CEB7F2A36820}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CCE1718A-F121-4C11-B30A-4D3206D4A79A}

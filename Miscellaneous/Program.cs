@@ -6,6 +6,9 @@ namespace Miscellaneous
     {
         static void Main(string[] args)
         {
+            Compare.compareString();
+            Compare.compareObject(1,1);
+
             #region ExtensionMethod
             Console.WriteLine("Extension Method!\n");
             string str = "Hello Extension Methods";
@@ -82,6 +85,46 @@ namespace Miscellaneous
 
           
 
+        }
+    }
+
+    /// <summary>
+    /// Diffrence between Equals() and ==
+    /// Equals methodd compares contents while == compares refrence identity.
+    /// </summary>
+    class Compare
+    {
+        public static void compareObject(int a, int b)
+        {
+            if (a.Equals(b))
+            {
+
+            }
+            if (a==b)
+            {
+
+            }
+
+        }
+
+        public static void compareString()
+        {
+            string a = "test";
+            string b = "test1".Substring(0,4);
+            object c = b;
+
+            if (a.Equals(c))
+            {
+
+            }
+            if (a==c)
+            {
+
+            }
+            if (b==c)
+            {
+
+            }
         }
     }
 }
