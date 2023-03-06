@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Miscellaneous
 {
@@ -6,6 +9,13 @@ namespace Miscellaneous
     {
         static void Main(string[] args)
         {
+            NewArray.GetArray();
+            NewArray newArray = new NewArray();
+            int a;
+            int b= 0;
+            newArray.GetValue(out a);
+            newArray.GetValue1(ref b);
+
             Compare.compareString();
             Compare.compareObject(1,1);
 
@@ -94,6 +104,7 @@ namespace Miscellaneous
     /// </summary>
     class Compare
     {
+        public delegate void resultcallback(int re);
         public static void compareObject(int a, int b)
         {
             if (a.Equals(b))
@@ -127,4 +138,44 @@ namespace Miscellaneous
             }
         }
     }
+
+    sealed class user { }
+    public sealed class user1 { }
+
+    /// <summary>
+    /// Access last arrays
+    /// </summary>
+    class  NewArray
+    {
+        int a;
+        int b = 1;
+        public static string[] array = { "a", "b", "c","d","e" };
+
+
+        public static async void GetArray()
+        {
+            foreach (var item in array)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine(array[^2]);
+        }
+
+        public async Task<int> calculate()
+        {
+            return 1;
+        }
+
+        public void GetValue(out int a)
+        {
+            a = 4;
+        }
+
+        public void GetValue1(ref int b)
+        {
+        b = 1;
+        }
+
+    }
+
 }
