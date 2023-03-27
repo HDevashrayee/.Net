@@ -38,9 +38,7 @@ namespace ConsoleAppTest
             {
                 result.Add(strings.FindAll(d => d.Equals(item)).Count);
             }
-
             return result;
-
         }
     }
 }

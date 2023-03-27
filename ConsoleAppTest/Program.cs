@@ -40,7 +40,7 @@ namespace ConsoleAppTest
             //int a = LonelyInteger.GetLonelyInteger(array);
             //Console.WriteLine(a);
 
-            //long f = Flipping_bits.GetFlippedBits(9);
+            long f = Flipping_bits.GetFlippedBits(9);
 
             //List<int> row1 = new List<int> { 1, 2, 3 };
             //List<int> row2 = new List<int> { 4, 5, 6 };

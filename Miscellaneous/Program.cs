@@ -33,27 +33,8 @@ namespace Miscellaneous
             #endregion
 
             #region Class Vs Struct
-            PersonClass personClass = new PersonClass("Leo", 0);
-            Console.WriteLine("Name = {0} \n Age = {1}", personClass.Name, personClass.Age);
-
-            PersonClass personClass1 = personClass;
-            personClass1.Name = "Spencer";
-            personClass.Age = 2;
-
-            // p1 values will also change because p2 is a refrencing p1 class.
-            Console.WriteLine("Name = {0} \n Age = {1}", personClass.Name, personClass.Age);
-
-            //struct
-
-            PersonStruct personStruct = new PersonStruct("Max",5);
-            Console.WriteLine("Name = {0} \n Age = {1}", personStruct.Name, personStruct.Age);
-
-            PersonStruct personStruct1 = personStruct;
-            personStruct1.Name = "Joe";
-            personStruct1.Age = 3;
-            // p1 values remain unchanged because p2 is  copy.
-            Console.WriteLine("Name = {0} \n Age = {1}", personStruct.Name, personStruct.Age);
-
+           
+            Struct_Instances_vs_Class_Instances.Run();
 
             #endregion
 
@@ -92,8 +73,11 @@ namespace Miscellaneous
             //Binary_Tree.DoTree(tree, action);
 
             //#endregion
+            #region Params
+            Console.WriteLine("************ Parmas ****************");
+            Params.Run();
+            #endregion
 
-          
 
         }
     }

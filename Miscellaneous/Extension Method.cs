@@ -10,6 +10,17 @@ namespace Miscellaneous
         {
             return str.Split(new char[] { ' ', '.', '?' },
                 StringSplitOptions.RemoveEmptyEntries).Length;
+        }        
+    }
+
+    public class Example
+    {
+        public void GetStringCount()
+        {
+            Console.WriteLine("Extension Method!\n");
+            string str = "Hello Extension Methods";
+            int i = str.WordCount();
+            Console.WriteLine("'" + str + "'" + " string count: " + i);
         }
     }
 }
